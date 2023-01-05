@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm a web dev inspired by beautiful UI
+
+I'm currently exploring SolidJS, Web Assembly, AI created UI designs, WebGL
+
+### Check out my portfolio to learn more at [illia.pro](https://illia.pro)
 
 <!--
 **illiaChaban/illiaChaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
